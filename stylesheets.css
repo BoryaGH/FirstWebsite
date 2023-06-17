@@ -1,0 +1,38 @@
+.titleText{
+    font-family: 'Verdana', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    text-decoration: wavy;
+}
+
+.paraText{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+
+.subjectName{
+    font-weight: bold;
+    color: purple;
+    font-size: 20px;
+}
+
+.infoText{
+    font-weight: bold;
+    color: darkslateblue;
+    font-size: 20px;
+}
+
+.tableText{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.tableCaption{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: darkslateblue;
+}
+
+body{
+    background-color: rgb(227, 237, 250);
+}
